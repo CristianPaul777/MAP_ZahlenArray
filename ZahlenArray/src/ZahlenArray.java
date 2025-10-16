@@ -25,4 +25,5 @@ public class ZahlenArray {
         for (int n : arr) sum += n;
         return sum - max;
     }
+
 }
